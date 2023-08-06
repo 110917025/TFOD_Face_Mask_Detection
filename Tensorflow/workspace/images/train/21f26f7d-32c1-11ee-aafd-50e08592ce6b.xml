@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>21f26f7d-32c1-11ee-aafd-50e08592ce6b.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\machine_and_deep_learning\RealTimeObjectDetection\Tensorflow\workspace\images\train\21f26f7d-32c1-11ee-aafd-50e08592ce6b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>140</ymin>
+			<xmax>415</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>
