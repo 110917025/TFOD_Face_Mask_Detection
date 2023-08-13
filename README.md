@@ -1,2 +1,2 @@
 # TFOD_Face_Mask_Detection
-Custom Object Detection (MobileNet SSD)
+Tensorflow Object Detection API & MobileNet SSD
